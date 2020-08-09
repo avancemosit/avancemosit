@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/avancemosit/static/css/main.89ff4296.chunk.css",
-    "main.js": "/avancemosit/static/js/main.cb0cd12f.chunk.js",
-    "main.js.map": "/avancemosit/static/js/main.cb0cd12f.chunk.js.map",
+    "main.css": "/avancemosit/static/css/main.a811666d.chunk.css",
+    "main.js": "/avancemosit/static/js/main.fe021c46.chunk.js",
+    "main.js.map": "/avancemosit/static/js/main.fe021c46.chunk.js.map",
     "runtime-main.js": "/avancemosit/static/js/runtime-main.cc6cd78f.js",
     "runtime-main.js.map": "/avancemosit/static/js/runtime-main.cc6cd78f.js.map",
     "static/css/2.11829350.chunk.css": "/avancemosit/static/css/2.11829350.chunk.css",
-    "static/js/2.e1dbd84e.chunk.js": "/avancemosit/static/js/2.e1dbd84e.chunk.js",
-    "static/js/2.e1dbd84e.chunk.js.map": "/avancemosit/static/js/2.e1dbd84e.chunk.js.map",
+    "static/js/2.3ed242ce.chunk.js": "/avancemosit/static/js/2.3ed242ce.chunk.js",
+    "static/js/2.3ed242ce.chunk.js.map": "/avancemosit/static/js/2.3ed242ce.chunk.js.map",
     "index.html": "/avancemosit/index.html",
-    "precache-manifest.b76381bf89298400fdfe64e8358a2019.js": "/avancemosit/precache-manifest.b76381bf89298400fdfe64e8358a2019.js",
+    "precache-manifest.3c0311218da58daa9acb07dc48f404a2.js": "/avancemosit/precache-manifest.3c0311218da58daa9acb07dc48f404a2.js",
     "service-worker.js": "/avancemosit/service-worker.js",
     "static/css/2.11829350.chunk.css.map": "/avancemosit/static/css/2.11829350.chunk.css.map",
-    "static/css/main.89ff4296.chunk.css.map": "/avancemosit/static/css/main.89ff4296.chunk.css.map",
-    "static/js/2.e1dbd84e.chunk.js.LICENSE.txt": "/avancemosit/static/js/2.e1dbd84e.chunk.js.LICENSE.txt",
-    "static/media/alcanzame.png": "/avancemosit/static/media/alcanzame.742f0b88.png",
+    "static/css/main.a811666d.chunk.css.map": "/avancemosit/static/css/main.a811666d.chunk.css.map",
+    "static/js/2.3ed242ce.chunk.js.LICENSE.txt": "/avancemosit/static/js/2.3ed242ce.chunk.js.LICENSE.txt",
+    "static/media/alcanzame.png": "/avancemosit/static/media/alcanzame.a4666f94.png",
     "static/media/bienes.png": "/avancemosit/static/media/bienes.d70ca20c.png"
   },
   "entrypoints": [
     "static/js/runtime-main.cc6cd78f.js",
     "static/css/2.11829350.chunk.css",
-    "static/js/2.e1dbd84e.chunk.js",
-    "static/css/main.89ff4296.chunk.css",
-    "static/js/main.cb0cd12f.chunk.js"
+    "static/js/2.3ed242ce.chunk.js",
+    "static/css/main.a811666d.chunk.css",
+    "static/js/main.fe021c46.chunk.js"
   ]
 }
