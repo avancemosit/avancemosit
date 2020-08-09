@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "204498d521fc63d75037aefe004b524f",
+    "revision": "a433fb2fe6b26e1e9861c6d778f52908",
     "url": "/avancemosit/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/avancemosit/static/css/2.11829350.chunk.css"
   },
   {
-    "revision": "57045afda6732c9b6c06",
+    "revision": "e2458c1bbeb216d2b9a7",
     "url": "/avancemosit/static/css/main.a811666d.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/avancemosit/static/js/2.3ed242ce.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "57045afda6732c9b6c06",
-    "url": "/avancemosit/static/js/main.fe021c46.chunk.js"
+    "revision": "e2458c1bbeb216d2b9a7",
+    "url": "/avancemosit/static/js/main.6b3a0890.chunk.js"
   },
   {
     "revision": "9aa52077475970c1e316",
