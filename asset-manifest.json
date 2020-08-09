@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/avancemosit/static/css/main.89ff4296.chunk.css",
+    "main.js": "/avancemosit/static/js/main.ee047e45.chunk.js",
+    "main.js.map": "/avancemosit/static/js/main.ee047e45.chunk.js.map",
+    "runtime-main.js": "/avancemosit/static/js/runtime-main.cc6cd78f.js",
+    "runtime-main.js.map": "/avancemosit/static/js/runtime-main.cc6cd78f.js.map",
+    "static/css/2.11829350.chunk.css": "/avancemosit/static/css/2.11829350.chunk.css",
+    "static/js/2.41c1be38.chunk.js": "/avancemosit/static/js/2.41c1be38.chunk.js",
+    "static/js/2.41c1be38.chunk.js.map": "/avancemosit/static/js/2.41c1be38.chunk.js.map",
+    "index.html": "/avancemosit/index.html",
+    "precache-manifest.c3fc8a53608942f9ce7c11e96fef00dd.js": "/avancemosit/precache-manifest.c3fc8a53608942f9ce7c11e96fef00dd.js",
+    "service-worker.js": "/avancemosit/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/avancemosit/static/css/2.11829350.chunk.css.map",
+    "static/css/main.89ff4296.chunk.css.map": "/avancemosit/static/css/main.89ff4296.chunk.css.map",
+    "static/js/2.41c1be38.chunk.js.LICENSE.txt": "/avancemosit/static/js/2.41c1be38.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cc6cd78f.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.41c1be38.chunk.js",
+    "static/css/main.89ff4296.chunk.css",
+    "static/js/main.ee047e45.chunk.js"
+  ]
+}
