@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a433fb2fe6b26e1e9861c6d778f52908",
+    "revision": "2a060d4de9a93c4e50ff092ab3b34063",
     "url": "/avancemosit/index.html"
   },
   {
-    "revision": "c60caadc680eddeb95f9",
+    "revision": "c471c70e403488f1cff7",
     "url": "/avancemosit/static/css/2.11829350.chunk.css"
   },
   {
-    "revision": "e2458c1bbeb216d2b9a7",
+    "revision": "1c1e9ad960f7954cde66",
     "url": "/avancemosit/static/css/main.a811666d.chunk.css"
   },
   {
-    "revision": "c60caadc680eddeb95f9",
-    "url": "/avancemosit/static/js/2.3ed242ce.chunk.js"
+    "revision": "c471c70e403488f1cff7",
+    "url": "/avancemosit/static/js/2.742ac80f.chunk.js"
   },
   {
     "revision": "d3031346469a8a2ef527f1ad705ea3b7",
-    "url": "/avancemosit/static/js/2.3ed242ce.chunk.js.LICENSE.txt"
+    "url": "/avancemosit/static/js/2.742ac80f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e2458c1bbeb216d2b9a7",
-    "url": "/avancemosit/static/js/main.6b3a0890.chunk.js"
+    "revision": "1c1e9ad960f7954cde66",
+    "url": "/avancemosit/static/js/main.cf6b72a1.chunk.js"
   },
   {
     "revision": "9aa52077475970c1e316",
