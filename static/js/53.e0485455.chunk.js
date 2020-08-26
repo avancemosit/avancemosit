@@ -1,0 +1,2 @@
+(this["webpackJsonpalcanzame-ui"]=this["webpackJsonpalcanzame-ui"]||[]).push([[53],{164:function(n,t,e){"use strict";e.r(t),e.d(t,"startStatusTap",(function(){return o}));var i=e(5),o=function(){var n=window;n.addEventListener("statusTap",(function(){Object(i.j)((function(){var t=n.innerWidth,e=n.innerHeight,o=document.elementFromPoint(t/2,e/2);if(o){var a=o.closest("ion-content");a&&a.componentOnReady().then((function(){Object(i.g)((function(){return a.scrollToTop(300)}))}))}}))}))}}}]);
+//# sourceMappingURL=53.e0485455.chunk.js.map
